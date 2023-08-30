@@ -1,0 +1,46 @@
+body
+{
+    background-image: url(Docs-Pics-Pdfs/silent-beach.jpg);
+    font-size: 150%;
+	font-family: Helvetica; 
+       
+}
+img{
+    float: right;
+    image-rendering: optimizeSpeed;
+    border-radius: 2em;
+    border: 2px solid darkcyan;
+    image-rendering: optimizeQuality;
+}
+h1
+{
+    color: darkcyan;
+}
+h2
+{
+    color: darkcyan;
+}
+.navbar{
+    color: black;
+    text-decoration: none;
+    background-color: darkcyan;
+    margin-left: 20%;
+    list-style-type: none;
+}
+p
+{
+    color: lightseagreen;
+    box-shadow: 1%;
+    
+}
+footer
+{
+    color: lightslategray;
+
+}
+main
+{
+    margin: 2em;
+    background-color: blanchedalmond;
+    border: 1px solid #003;
+}
